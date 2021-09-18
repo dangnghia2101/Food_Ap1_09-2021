@@ -1,0 +1,14 @@
+com/food_recipe_app_epp08/BuildConfig.java
+ com.food_recipe_app_epp08.BuildConfig
+com/food_recipe_app_epp08/MainApplication.java
+ com.food_recipe_app_epp08.MainApplication
+ com.food_recipe_app_epp08.MainApplication$1
+com/food_recipe_app_epp08/MainActivity.java
+ com.food_recipe_app_epp08.MainActivity
+com/food_recipe_app_epp08/ReactNativeFlipper.java
+ com.food_recipe_app_epp08.ReactNativeFlipper
+ com.food_recipe_app_epp08.ReactNativeFlipper$1
+ com.food_recipe_app_epp08.ReactNativeFlipper$2
+ com.food_recipe_app_epp08.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
